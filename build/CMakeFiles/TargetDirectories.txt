@@ -1,3 +1,0 @@
-C:/Users/User/Dev/Codigos/Calc++/build/CMakeFiles/Calc++.dir
-C:/Users/User/Dev/Codigos/Calc++/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/Dev/Codigos/Calc++/build/CMakeFiles/ZERO_CHECK.dir
