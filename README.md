@@ -18,6 +18,10 @@ obs: é necessario usar aspas (") na expressão caso ela contenha espaços.
 
     ./calc++ /e "12 + 4 - 5 * 3"
 
+### Ou usar script de run para rodar o exemplo 1:
+
+    ./run.ps1
+
 ## Sintáxe no arquivo
 
 Nesta linguagem pode ser usado ou não o ';'
