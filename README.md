@@ -1,3 +1,12 @@
+# Build
+
+    cmake -B build
+    cmake -build build
+
+### Exectuavel disponível em
+    
+    /build/Debug/calc++.exe
+
 # Uso
 
 ### Comando no terminal:
@@ -5,7 +14,7 @@
 
     ./calc++ /e <expressão>
 
-obs: é necessãrio usar aspas (") na expressão caso ela contenha espaços.
+obs: é necessario usar aspas (") na expressão caso ela contenha espaços.
 
     ./calc++ /e "12 + 4 - 5 * 3"
 
